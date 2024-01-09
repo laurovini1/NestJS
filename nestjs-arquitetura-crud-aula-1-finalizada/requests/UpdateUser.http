@@ -1,0 +1,6 @@
+PATCH http://localhost:3000/users/3
+Content-Type: application/json
+
+{
+    "name": "Cristiano Ronaldo"
+}
